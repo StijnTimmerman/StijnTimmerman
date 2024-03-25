@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Stijn's GitHub stats](https://github-readme-stats.vercel.app/api?username=StijnHydraloop)](https://github.com/anuraghazra/github-readme-stats)
-
-![Stijn's GitHub stats](https://github-readme-stats.vercel.app/api?username=StijnHydraloop&show_icons=true)
+![Stijn's GitHub stats](https://github-readme-stats.vercel.app/api?username=StijnHydraloop&show_icons=true&theme=radical)
 
 <!--
 **StijnHydraloop/StijnHydraloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
