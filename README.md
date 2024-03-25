@@ -2,7 +2,7 @@
 
 ## Software Engineer at Hydraloop Systems
 
-On this account I do mostly professional work.
+On this account I mostly do professional work.
 
 ![Stijn's GitHub stats](https://github-readme-stats.vercel.app/api?username=StijnHydraloop&show_icons=true&theme=radical)
 
