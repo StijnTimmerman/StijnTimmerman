@@ -2,6 +2,7 @@
 
 ## Software Engineer at Hydraloop Systems
 <a href="https://info.flagcounter.com/WFGF"><img src="https://s11.flagcounter.com/count/WFGF/bg_FFFFFF/txt_35B1F0/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<br>
 ![Stijn's GitHub stats](https://github-readme-stats.vercel.app/api?username=StijnHydraloop&show_icons=true&theme=radical)
 
 <p align="left">
