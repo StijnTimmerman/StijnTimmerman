@@ -2,8 +2,6 @@
 
 ## Software Engineer at Hydraloop Systems
 
-On this account, I mostly share my professional projects.
-
 Currently at Hydraloop, I’m working on expanding the Hydraloop Device Manager, an IoT platform that connects all Hydraloop devices.
 
 Here are the projects I’m currently focused on:
